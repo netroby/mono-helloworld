@@ -10,3 +10,10 @@ You need installed mono-complete package first, to build and run it
 mcs hello.cs
 mono hello.exe
 ```
+
+
+## Donate me please
+
+![Scan QRCode donate me via Alipay](https://www.netroby.com/assets/images/alipayme.jpg)
+
+**Scan QRCode donate me via Alipay**
